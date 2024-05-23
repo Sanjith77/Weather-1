@@ -23,5 +23,5 @@ This mini project is designed to show real-time weather information for a specif
 For this project, we have used the OpenWeatherMap API (https://openweathermap.org/api) to retrieve the current weather data.
 
 ## Preview
-[Link](https://github.com/devopsnhc10/Weather-1/)
+[Link](http://devopsnhc10.github/Weather-App/)
 
