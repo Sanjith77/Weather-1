@@ -6,7 +6,6 @@ This mini project is designed to show real-time weather information for a specif
 - Real-Time Weather: Displays up-to-date weather information fetched from a weather API.
 - Location Specific: Shows weather details for the location specified by the user.
 - User-Friendly Interface: Simple and intuitive interface for easy navigation and usage.
-https://github.com/devopsnhc10/
 
 ## Technologies Used
 - HTML: Markup language for structuring the web page.
@@ -24,4 +23,5 @@ https://github.com/devopsnhc10/
 For this project, we have used the OpenWeatherMap API (https://openweathermap.org/api) to retrieve the current weather data.
 
 ## Preview
-[Link](https://github.com/devopsnhc10/Weather-App/)
+[Link](https://github.com/devopsnhc10/Weather-1/)
+
