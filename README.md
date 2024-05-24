@@ -1,4 +1,4 @@
-# Real-Time Weather Display Mini Project
+#  Weather Mini Project
 
 This mini project is designed to show real-time weather information for a specific location requested by the user.
 
